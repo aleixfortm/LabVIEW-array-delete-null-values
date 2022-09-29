@@ -1,0 +1,1 @@
+# LabVIEW-array-delete-null-values
